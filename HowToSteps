@@ -1,0 +1,22 @@
+git clone https://github.com/fschmitzsz/CodeSnippetsC-.git
+----------------------------------------
+cd CodeSnippetsC-/
+----------------------------------------
+git branch -a
+  * TestBranch master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/TestBranch
+  remotes/origin/feature_branch_test1
+  remotes/origin/master
+----------------------------------------
+
+git checkout TestBranch
+
+----------------------------------------
+:)
+
+
+Tio Conejo Loves you Baby. 
+
+
+
